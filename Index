@@ -1,19 +1,31 @@
-<IDOCTYPE html>
-Chtml>
-chead»
-cbody>
-C/head»-<body>
+<!DOCTYPE html>
+<html>
+<head> </head>
+<body>
+
 Hallo0000
-＜/html>
-‹style›
-body t color: red;
+</body>
+</html>
+<style>
+body {
+color: red;
 }
-p 1
-color: green ;
-body t
-background: rgb (99, 9, 67) :
+p {
+color: rgb(60,196,230);
 }
-</style»
-<body›
-<p› DAS HALLOOO DA OBEN IST FAKE
+body {
+background: rgb(209,179,56);
+p {
+background: green;
+}
+body {
+box-shadow color: green;
+}
+div {
+color: green;
+}
+</style>
+<body>class="c"></div>
+<p>Das hallo da oben is fake
+</p>
 </body>
