@@ -3,7 +3,12 @@
 <head> </head>
 <body>
 
-Hallo0000
+Da solltest du sehr viel kaufen
+<a
+target="blank"
+  href= "https://www.youtube.com/watch?v=hPr-Yc92qaY"> 
+<img src=https://imgs.search.brave.com/7G9agk11NuqMZeRU1CcW_Z-4MpnOdCqLsXaBOfm3oCQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/eGluZy5jb20vaW1h/Z2VjYWNoZS9wdWJs/aWMvc2NhbGVkX29y/aWdpbmFsX2ltYWdl/L2V5SjFkV2xrSWpv/aU5UbGtPRFUxTjJN/dE4yVXpZaTAwWW1F/eExXSTNZV0l0T1Rj/NE9EUTFPVFkxTlRR/eUlpd2lZWEJ3WDJO/dmJuUmxlSFFpT2lK/bGJuUnBkSGt0Y0dG/blpYTWlMQ0p0WVho/ZmQybGtkR2dpT2pN/eU1Dd2liV0Y0WDJo/bGFXZG9kQ0k2TXpJ/d2ZRP3NpZ25hdHVy/ZT0wOWE4OTY0MzEx/NzhjZTVmYTkzZjhm/OWNmNDI2NjJlOGMz/N2E5ZGMxMjU4Mjg3/ZjRkOTlhZjlkZTg4/M2Q5ZjI5 ;
+</a>
 </body>
 </html>
 <style>
@@ -14,18 +19,19 @@ p {
 color: rgb(60,196,230);
 }
 body {
-background: rgb(209,179,56);
+background: rgb(172,219,251);
 p {
-background: green;
+background: rgb(172,219,251);
 }
 body {
-box-shadow color: green;
+color: rgb(172,219,251);
 }
 div {
 color: green;
 }
+<img 
 </style>
-<body>class="c"></div>
+<body>
 <p>Das hallo da oben is fake
 </p>
 </body>
